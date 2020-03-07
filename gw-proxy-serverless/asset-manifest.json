@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/gw-proxy-serverless/static/css/main.e0bbd16a.chunk.css",
+    "main.js": "/gw-proxy-serverless/static/js/main.0898cd90.chunk.js",
+    "main.js.map": "/gw-proxy-serverless/static/js/main.0898cd90.chunk.js.map",
+    "runtime-main.js": "/gw-proxy-serverless/static/js/runtime-main.13d7f748.js",
+    "runtime-main.js.map": "/gw-proxy-serverless/static/js/runtime-main.13d7f748.js.map",
+    "static/css/2.563af9af.chunk.css": "/gw-proxy-serverless/static/css/2.563af9af.chunk.css",
+    "static/js/2.af3a46c7.chunk.js": "/gw-proxy-serverless/static/js/2.af3a46c7.chunk.js",
+    "static/js/2.af3a46c7.chunk.js.map": "/gw-proxy-serverless/static/js/2.af3a46c7.chunk.js.map",
+    "index.html": "/gw-proxy-serverless/index.html",
+    "precache-manifest.90be2b35f0909f770c8ad918b676c85b.js": "/gw-proxy-serverless/precache-manifest.90be2b35f0909f770c8ad918b676c85b.js",
+    "service-worker.js": "/gw-proxy-serverless/service-worker.js",
+    "static/css/2.563af9af.chunk.css.map": "/gw-proxy-serverless/static/css/2.563af9af.chunk.css.map",
+    "static/css/main.e0bbd16a.chunk.css.map": "/gw-proxy-serverless/static/css/main.e0bbd16a.chunk.css.map",
+    "static/js/2.af3a46c7.chunk.js.LICENSE.txt": "/gw-proxy-serverless/static/js/2.af3a46c7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.13d7f748.js",
+    "static/css/2.563af9af.chunk.css",
+    "static/js/2.af3a46c7.chunk.js",
+    "static/css/main.e0bbd16a.chunk.css",
+    "static/js/main.0898cd90.chunk.js"
+  ]
+}
